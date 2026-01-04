@@ -1,0 +1,26 @@
+@font-face {
+	font-family: kookExtraBold;
+	src: url("./font/kook/Kook-ExtraBold.woff");
+	font-style: normal;
+}
+body{
+    font-family: kookExtraBold !important;
+	font-feature-settings: "ss01" !important;
+}
+.apexcharts-tooltip .apexcharts-tooltip-y-group {
+	margin-right: 10px !important;
+	font-family: kookExtraBold !important;
+}
+.apexcharts-text{
+	font-family: kookExtraBold !important;
+}
+.apexcharts-tooltip-title{
+	font-family: kookExtraBold !important;
+}
+._9w8d5{
+	font-family: kookExtraBold !important;
+}
+.apexcharts-legend-text{
+	margin-right: 10px !important;
+	font-family: kookExtraBold !important;
+}
