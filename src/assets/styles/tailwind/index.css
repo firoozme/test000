@@ -2,6 +2,18 @@
 
 @config '../../../../tailwind.config.ts';
 
+@layer base {
+	@font-face {
+		font-family: 'kookExtraBold';
+		src: url("./font/kook/Kook-ExtraBold.woff");
+		font-style: normal;
+	}
+	body{
+		font-family: 'kookExtraBold' !important;
+		font-feature-settings: "ss01" !important;
+	}
+
+}
 @layer theme {
 	:root {
 		--neutral: #ffffff;
