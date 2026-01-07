@@ -2,6 +2,7 @@
     "nav": {
        "home" : "Dashboard",
        "profile" : "Profile",
-       "verification" : "Verification"
+       "verification" : "Verification",
+       "Consultations" : "Consultations"
    }
 }

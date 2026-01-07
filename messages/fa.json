@@ -2,6 +2,7 @@
     "nav": {
        "home" : "داشبورد",
        "profile" : "پروفایل",
-       "verification" : "احراز هویت"
+       "verification" : "احراز هویت",
+       "consultations" : "مشاوره ها"
    }
 }
