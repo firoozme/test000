@@ -1,6 +1,7 @@
 {
     "nav": {
        "home" : "داشبورد",
-       "profile" : "پروفایل"
+       "profile" : "پروفایل",
+       "verification" : "احراز هویت"
    }
 }

@@ -1,6 +1,7 @@
 {
     "nav": {
        "home" : "Dashboard",
-       "profile" : "Profile"
+       "profile" : "Profile",
+       "verification" : "Verification"
    }
 }
