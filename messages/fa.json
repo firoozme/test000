@@ -3,6 +3,8 @@
        "home" : "داشبورد",
        "profile" : "پروفایل",
        "verification" : "احراز هویت",
-       "consultations" : "مشاوره ها"
+       "consultations" : "مشاوره ها",
+       "bills" : "صورتحساب",
+       "setting" : "تظیمات"
    }
 }
