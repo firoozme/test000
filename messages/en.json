@@ -3,6 +3,8 @@
        "home" : "Dashboard",
        "profile" : "Profile",
        "verification" : "Verification",
-       "Consultations" : "Consultations"
+       "consultations" : "Consultations",
+       "bills" : "Bills",
+       "setting" : "Setting"
    }
 }

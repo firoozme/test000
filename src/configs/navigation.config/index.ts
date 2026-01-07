@@ -47,16 +47,26 @@ const navigationConfig: NavigationTree[] = [
         authority: [],
         subMenu: [],
     },
-    // {
-    //     key: 'profile',
-    //     path: '/profile',
-    //     title: 'Profile',
-    //     translateKey: 'nav.profile',
-    //     icon: 'home',
-    //     type: NAV_ITEM_TYPE_ITEM,
-    //     authority: [],
-    //     subMenu: [],
-    // },
+    {
+        key: 'bills',
+        path: '/bills',
+        title: 'Bills',
+        translateKey: 'nav.bills',
+        icon: 'home',
+        type: NAV_ITEM_TYPE_ITEM,
+        authority: [],
+        subMenu: [],
+    },
+    {
+        key: 'setting',
+        path: '/setting',
+        title: 'Setting',
+        translateKey: 'nav.setting',
+        icon: 'home',
+        type: NAV_ITEM_TYPE_ITEM,
+        authority: [],
+        subMenu: [],
+    },
    
 ]
 
